@@ -11,8 +11,8 @@ Download and install the [CI build](https://www.vsixgallery.com/extension/ShowHe
 Inspired by Ed Dore's [ShowDebugHelpContext extension](https://github.com/EdDore/VSXArcana/tree/master/ShowDebugHelpContext).
 
 ![Screenshot](art/screenshot.png)
-The tool window provides help context for the current open document, tool window and whatever is actively selected.
 
+The tool window provides help context for the current open document, tool window and whatever is actively selected.
 
 ## License
 [Apache 2.0](LICENSE)
