@@ -11,12 +11,12 @@
         or combo box in a toolbar. -->
     <Buttons>
       <Button guid="ShowHelpContext" id="MyCommand" priority="0x0100" type="Button">
-        <Parent guid="VSMainMenu" id="View.DevWindowsGroup.OtherWindows.Group0"/>
+        <Parent guid="VSMainMenu" id="View.DevWindowsGroup.OtherWindows.Group2"/>
         <Icon guid="ImageCatalogGuid" id="StatusHelpOutline" />
         <CommandFlag>IconIsMoniker</CommandFlag>
         <Strings>
-          <ButtonText>Help Context</ButtonText>
-          <LocCanonicalName>.View.HelpContext</LocCanonicalName>
+          <ButtonText>Debug Help Context</ButtonText>
+          <LocCanonicalName>.View.DebugHelpContext</LocCanonicalName>
         </Strings>
       </Button>
     </Buttons>

@@ -2,8 +2,9 @@
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
         <Identity Id="ShowHelpContext.8ddc4ea8-5de7-49ac-947d-4c50ff2854a1" Version="1.0" Language="en-US" Publisher="Mads Kristensen" />
-        <DisplayName>Show Help Context</DisplayName>
-        <Description xml:space="preserve">Adds a tool window that shows the active help context. Can be used to troubleshoot extensions</Description>
+        <DisplayName>Debug Help Context</DisplayName>
+        <Description xml:space="preserve">Adds a tool window that shows the active debug help context. Can be used to troubleshoot extensions. </Description>
+        <MoreInfo>https://github.com/madskristensen/ShowHelpContext</MoreInfo>
         <License>Resources\LICENSE</License>
         <Icon>Resources\Icon.png</Icon>
         <PreviewImage>Resources\Icon.png</PreviewImage>

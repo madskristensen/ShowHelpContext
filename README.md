@@ -1,14 +1,17 @@
 # Help Explorer for Visual Studio
 
-[![Build status](https://ci.appveyor.com/api/projects/status/5b1gr9r9vjra7yuf?svg=true)](https://ci.appveyor.com/project/madskristensen/helpexplorer)
+[![Build status](https://ci.appveyor.com/api/projects/status/vaf18jchkwoqfo8k?svg=true)](https://ci.appveyor.com/project/madskristensen/showhelpcontext)
 
-Adds a Help Explorer tool window that provides contextual help and resources. Great for beginners, students, and hobby programmaers alike.
+Adds a tool window that shows the active debug help context. Can be used to troubleshoot extensions. 
 
-Download and install the [CI build](https://www.vsixgallery.com/extension/HelpExplorer.c8c773f3-d62f-4717-9b7d-1d3e440a7d53/).
+Download and install the [CI build](https://www.vsixgallery.com/extension/ShowHelpContext.8ddc4ea8-5de7-49ac-947d-4c50ff2854a1/).
 
 ----------------------------------------------
 
-We're building this extension live on air. Check out the first episode [Where we build a tool window extension](https://www.youtube.com/watch?v=VVaGOxdvYSw&list=PLReL099Y5nReXKzeX10TZF3BfLdOZXxix&index=1) and make sure to tune in to the [Hacking Visual Studio show](https://www.youtube.com/playlist?list=PLReL099Y5nReXKzeX10TZF3BfLdOZXxix) every Friday.
+Inspired by Ed Dore's [ShowDebugHelpContext extension](https://github.com/EdDore/VSXArcana/tree/master/ShowDebugHelpContext).
+
+![Screenshot](art/screenshot.png)
+The tool window provides help context for the current open document, tool window and whatever is actively selected.
 
 
 ## License
